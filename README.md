@@ -10,7 +10,7 @@ Similarity Network- Robot Demonstrations:
 
 ## Downloads
 <img src="images/Page_Design_Paper.png" width="200" height="200"><img src="images/Page_Design_Code.png" width="200" height="200"><img src="images/Page_Design_Database.png" width="200" height="200">\
- [<a taget="_blank" title="Paper" href="https://www.overleaf.com/read/wbhmkkpbgmwb">Paper</a>][<a taget="_blank" title="Code" href="https://github.com/LiDuanAtGlasgow/Similarity_Network">Code</a>][<a taget="_blank" title="Database" href="https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EQ8QtIrqcUlNtT0GvLG8kYMBqrPiGziLJLR1pGD4r1T01w?e=02b7mr">Database</a>]
+ [<a taget="_blank" title="Paper" href="https://www.overleaf.com/read/wbhmkkpbgmwb">Paper</a>][<a taget="_blank" title="Code" href="https://github.com/LiDuanAtGlasgow/GarNet">Code</a>][<a taget="_blank" title="Database" href="https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EQ8QtIrqcUlNtT0GvLG8kYMBqrPiGziLJLR1pGD4r1T01w?e=02b7mr">Database</a>]
 
 ## The Author
 <img src='images/Li_Duan_Ken.jpg' width='200' height='150'>\
