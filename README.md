@@ -1,5 +1,4 @@
 # GarNet
-# Similarity_Network
 ## Introduction
 
 We introduce an approach to predict the shapesand discretised weights of garments through learning garment-physical similarity. Prior knowledge about discretised weightsand shapes of garments facilitates robots’ abilities to manip-ulate those garments. Therefore our approach can potentiallyintroduce a robot dexterous garment manipulation. We intro-duce a garment similarity network (GarNet) that achieves aprediction accuracy of 98% for unseen garment shapes and95% for unseen garment discretised weights. 
