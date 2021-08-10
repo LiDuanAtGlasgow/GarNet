@@ -1,7 +1,7 @@
 # GarNet
 ## Introduction
 
-Robot deformable object manipulation is a major challenge in the robot manipulation discipline. Due to the unpredictable and complicated status space of deformable objects, a robot needs to learn object geometric and physical properties before manipulations. This paper proposes a garment similarity network (GarNet) that learns geometric and physical similarities between garments and predicts shapes and discretised weights (weight levels) of unseen garments through continuously observing garment-motion video sequences. Our approach features an ‘early stop’ strategy, which means the GarNet does not need to observe the whole video sequences to make a prediction but maintains high prediction accuracies. We find that our GarNet achieves prediction accuracies of 98 \% for shapes and 95 \% for discretised weights.
+Robot deformable object manipulation is a major challenge in the robot manipulation discipline. Due to the unpredictable and complicated status space of deformable objects, a robot needs to learn object geometric and physical properties before manipulations. This paper proposes a garment similarity network (GarNet) that learns geometric and physical similarities between garments and predicts shapes and discretised weights (weight levels) of unseen garments through continuously observing garment-motion video sequences. Our approach features an ‘early stop’ strategy, which means the GarNet does not need to observe the whole video sequences to make a prediction but maintains high prediction accuracies. We find that our GarNet achieves prediction accuracies of 98 % for shapes and 95 % for discretised weights.
 
 Video Demonstration
 
