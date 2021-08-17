@@ -5,7 +5,7 @@ Robot deformable object manipulation is a major challenge in the robot manipulat
 
 Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/My_H-RvCPCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4yD1OM-dgS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Downloads
