@@ -1,7 +1,6 @@
-# GarNet
+# Garment Similarity Network (GarNet): A Continuous Perception Robotic Approach for Predicting Shapes and Visually Perceived Weights of Unseen Garments
 ## Introduction
-
-Robot deformable object manipulation is a major challenge in the robot manipulation discipline. Due to the unpredictable and complicated status space of deformable objects, a robot needs to learn object geometric and physical properties before manipulations. This paper proposes a garment similarity network (GarNet) that learns geometric and physical similarities between garments and predicts shapes and discretised weights (weight levels) of unseen garments through continuously observing garment-motion video sequences. Our approach features an ‘early stop’ strategy, which means the GarNet does not need to observe the whole video sequences to make a prediction but maintains high prediction accuracies. We find that our GarNet achieves prediction accuracies of 98 % for shapes and 95 % for discretised weights.
+We present in this paper a Garment Similarity Network (GarNet) that learns geometric and physical similarities between known garments by continuously observing a garment while a robot picks it up from a table. The aim is to capture and encode geometric and physical characteristics of a garment into a manifold where a decision can be carried out, such as predicting the garment's shape class and its visually perceived weight. Our approach features an early stop strategy, which means that GarNet does not need to observe the entire video sequence to make a prediction and maintain high prediction accuracy values. In our experiments, we find that GarNet achieves prediction accuracies of 98 \% for shape classification and 95% for predicting weights. We compare our approach with state-of-art methods, and we observe that our approach advances the state-of-art methods from 70.8% to 98% for shape classification.
 
 Video Demonstration
 
