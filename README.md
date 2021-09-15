@@ -16,7 +16,7 @@ The early-stop strategy allow the robotic system to make a prediction without ob
 
 -----------------------------------------------------------------------------------------------
 ## Downloads
-<img src="images/Page_Design_Paper.png" width="200" height="200"><img src="images/Page_Design_Code.png" width="200" height="200"><img src="images/Page_Design_Database.png" width="200" height="200">\
+<img src="images/Page_Design_Paper.png" width="50" height="50"><img src="images/Page_Design_Code.png" width="50" height="50"><img src="images/Page_Design_Database.png" width="50" height="50">\
  [<a taget="_blank" title="Paper" href="https://www.overleaf.com/read/wbhmkkpbgmwb">Paper</a>][<a taget="_blank" title="Code" href="https://github.com/LiDuanAtGlasgow/GarNet">Code</a>][<a taget="_blank" title="Database" href="https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EQ8QtIrqcUlNtT0GvLG8kYMBqrPiGziLJLR1pGD4r1T01w?e=02b7mr">Database</a>]
 
 ## The Author
