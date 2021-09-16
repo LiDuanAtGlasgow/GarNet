@@ -7,7 +7,7 @@ We present in this paper a Garment Similarity Network (GarNet) that learns geome
 
 --------------------------------------------------------------------------------------------
 ## Examples of Early Stop enabled by the GarNet in a Continuous Perception Way
-The early-stop strategy allow the robotic system to make a prediction without observing the full video sequence, and therefore, enabling continous perception. As it can be observed in both plots, GarNet becomes confident over time and the early-stop strategy activates if 80% of decision points in the garment similarity map are within a correct category.
+The early-stop strategy allows the robotic system to predict unseen garments’ shapes and discretised weights without observing the entire video sequence, enabling continuous perception. As observed in both plots, GarNet becomes confident over time, and the early-stop strategy activates if 80% of decision points in the garment similarity map are within a correct category.
 
 <img src="images/Paper-Continuous_Perception_Part1.png" width="1200" height="800">
 <img src="images/Paper-Continuous_Perception_Part2.png" width="1200" height="800">
@@ -19,7 +19,7 @@ The early-stop strategy allow the robotic system to make a prediction without ob
 
 ## The Author
 <img src='images/Li_Duan_Ken.jpg' width='200' height='150'>\
-My name is Li Duan (Ken) and I am a 3rd-year PhD student at University of Glasgow, Scotland. My interests include robot continuous perception and deformable object manipulation. Recently, I am working on investigating geometric and physical properties of fabrics and garments, thrpugh which I am engineering methods to improve robot deformable object manipulations.\
+My name is Li Duan (Ken), and I am a 3rd-year PhD student at the University of Glasgow, Scotland. My interests include robot continuous perception and deformable object manipulation. Recently, I have been working on investigating geometric and physical properties of fabrics and garments, through which I am engineering methods to improve robot deformable object manipulations.\
 I am willing to hear from our community, so your suggestions are welcomed. Please reach me at:\
 Twitter: [@liduanglasgow](https://twitter.com/liduanglasgow)\
 Email: <em>l.duan.1 at research.gla.ac.uk</em>
