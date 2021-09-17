@@ -9,8 +9,8 @@ We present in this paper a Garment Similarity Network (GarNet) that learns geome
 ## Examples of Early Stop enabled by the GarNet in a Continuous Perception Way
 The early-stop strategy allows the robotic system to predict unseen garments’ shapes and discretised weights without observing the entire video sequence, enabling continuous perception. As observed in both plots, GarNet becomes confident over time, and the early-stop strategy activates if 80% of decision points in the garment similarity map are within a correct category.
 
-<img src="images/Paper-Continuous_Perception_Part1.png" width="1200" height="800">
-<img src="images/Paper-Continuous_Perception_Part2.png" width="1200" height="800">
+<img src="images/Paper-Continuous_Perception_Part1.png" width="1200" height="700">
+<img src="images/Paper-Continuous_Perception_Part2.png" width="1200" height="700">
 
 -----------------------------------------------------------------------------------------------
 ## Downloads
