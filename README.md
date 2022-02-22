@@ -3,7 +3,7 @@
 We present a Garment Similarity Network (GarNet) that learns geometric and physical similarities between known garments by continuously observing a garment while a robot picks it up from a table. The aim is to capture and encode geometric and physical characteristics of a garment into a manifold where a decision can be carried out, such as predicting the garment's shape class and its visually perceived weight. Our approach features an early stop strategy, which means that GarNet does not need to observe a garment being picked up from a crumpled to a hanging state to make a prediction. In our experiments, we find that GarNet achieves prediction accuracies of 92% for shape classification and 95.5% for predicting weights and advances state-of-art approaches by 21% for shape classification.
 
 ## Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mKwb-Mrji1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJl50A1xN08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------------------------------------------------------------------------------------------
 ## Examples of Early Stop enabled by the GarNet in a Continuous Perception Way
